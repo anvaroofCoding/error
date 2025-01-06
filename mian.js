@@ -119,3 +119,7 @@ function Comasadd() {
 		console.log('finished')
 	}
 }
+
+function clearConsole() {
+	console.clear()
+}
